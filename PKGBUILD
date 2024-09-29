@@ -17,8 +17,7 @@ b2sums=('SKIP'
         'SKIP')
 
 package(){
- 
- install -D -m 755 "uad-ng" "$pkgdir/usr/bin/uad-ng"
- install -D -m 644 "$pkgdir/uad-ng.desktop" -t "$pkgdir/usr/share/applications"
- install -D -m 644 "$pkgdir/resources/assets/uad-ng.svg" -t "$pkgdir/usr/share/pixmaps"
+ install -D -m 755 "uad-ng-bin-1.1.0" "$pkgdir/usr/bin/uad-ng"
+ install -D -m 644 "uad-ng.desktop" -t "$pkgdir/usr/share/applications"
+ install -D -m 644 "uad-ng.svg" -t "$pkgdir/usr/share/pixmaps"
 }
