@@ -28,11 +28,12 @@ pub fn nav_menu<'a>(
     )
     .on_press(Message::RefreshButtonPressed);
 
-    let apps_refresh_tooltip = tooltip(apps_refresh_btn, "Refresh:
-                                                          Android users
-                                                          Connected devices
-                                                          Installed package lists
-                                                          ", tooltip::Position::Bottom)
+    let apps_refresh_tooltip = tooltip(apps_refresh_btn,
+"Refresh:
+Android users
+Connected devices
+Installed package lists",
+tooltip::Position::Bottom)
         .style(style::Container::Tooltip)
         .gap(4);
 
