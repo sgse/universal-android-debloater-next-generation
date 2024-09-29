@@ -9,7 +9,7 @@ url="https://github.com/sgse/universal-android-debloater-next-generation"
 license=('GPL3')
 depends=('android-tools' 'fontconfig' 'vulkan-icd-loader')
 provides=('universal-android-debloater')
-source=("$pkgname-$pkgver::$url/releases/latest/v$pkgver/uad-ng"
+source=("$pkgname-$pkgver::$url/releases/download/$pkgver/uad-ng"
         "uad-ng.svg::$url/blob/main/resources/assets/uad-ng.svg?raw=true"
         "uad-ng.desktop")
 b2sums=('SKIP'
