@@ -1,8 +1,8 @@
 # Maintainer: SGS <sgs at garudalinux dot org>
 
 pkgname="uad-ng-bin"
-pkgver=1.1.0
-pkgrel=1
+pkgver=1.1.1
+pkgrel=2
 pkgdesc="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices (next generation)"
 arch=('x86_64')
 url="https://github.com/sgse/universal-android-debloater-next-generation"
@@ -17,7 +17,7 @@ b2sums=('SKIP'
         'SKIP')
 
 package(){
- install -D -m 755 "uad-ng-bin-1.1.0" "$pkgdir/usr/bin/uad-ng"
+ install -D -m 755 "uad-ng-bin-1.1.1" "$pkgdir/usr/bin/uad-ng"
  install -D -m 644 "uad-ng.desktop" -t "$pkgdir/usr/share/applications"
  install -D -m 644 "uad-ng.svg" -t "$pkgdir/usr/share/pixmaps"
 }
