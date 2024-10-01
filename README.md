@@ -8,7 +8,7 @@
 **DISCLAIMER**: Use at your own risk. We're not responsible for anything that
 could happen to your phone.
 
-<img src="/resources/screenshots/v1.1.0.png" width="850" alt="uad_screenshot">
+<img src="/resources/screenshots/v1.1.1.png" width="850" alt="uad_screenshot">
 
 <img src="/resources/assets/uad-ng.svg" width="256" alt="uad_fork_logo">
 
