@@ -10002,7 +10002,7 @@
     "dependencies": [],
     "neededBy": [],
     "labels": [],
-    "removal": "Recommended"
+    "removal": "Expert"
   },
   "com.google.android.overlay.gmsconfig.geotz": {
     "list": "Google",
@@ -10010,7 +10010,7 @@
     "dependencies": [],
     "neededBy": [],
     "labels": [],
-    "removal": "Recommended"
+    "removal": "Expert"
   },
   "com.google.android.overlay.gmsconfig.gsa": {
     "list": "Google",
@@ -10026,7 +10026,7 @@
     "dependencies": [],
     "neededBy": [],
     "labels": [],
-    "removal": "Recommended"
+    "removal": "Expert"
   },
   "com.google.android.overlay.gmsconfig.photos": {
     "list": "Google",
@@ -14363,6 +14363,14 @@
   "com.ubercab": {
     "list": "Misc",
     "description": "Uber (https://play.google.com/store/apps/details?id=com.ubercab)\nUber Driver (https://play.google.com/store/apps/details?id=com.ubercab.driver)\nUber Eats (https://play.google.com/store/apps/details?id=com.ubercab.eats)\nUber does not protect personal user data and has a questionable ethic.\nWorth reading : https://en.wikipedia.org/wiki/Uber#Criticism\n",
+    "dependencies": [],
+    "neededBy": [],
+    "labels": [],
+    "removal": "Recommended"
+  },
+  "com.alibaba.aliexpresshd": {
+    "list": "Misc",
+    "description": "AliExpress shopping/marketplace.\nhttps://play.google.com/store/apps/details?id=com.alibaba.aliexpresshd",
     "dependencies": [],
     "neededBy": [],
     "labels": [],
@@ -28127,7 +28135,7 @@
     "dependencies": [],
     "neededBy": [],
     "labels": [],
-    "removal": "Recommended"
+    "removal": "Expert"
   },
   "com.google.android.overlay.permissioncontroller": {
     "list": "Aosp",
