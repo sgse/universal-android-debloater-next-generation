@@ -12,7 +12,7 @@ could happen to your phone.
 
 <img src="/resources/assets/uad-ng.svg" width="256" alt="uad_fork_logo">
 
-**Check out the issues, and [feel free to contribute!](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/How-to-contribute)**
+**Check out the issues, and [feel free to contribute!](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/wiki/How-to-contribute)**. We're in **HIGH NEED** of Rust developers for fixing critical issues, see [this announcement](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/discussions/731) for more information.
 
 **For real-time communication, consider joining our Discord server:**
 
