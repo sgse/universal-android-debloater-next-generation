@@ -16066,7 +16066,7 @@
   },
   "com.android.thememanager": {
     "list": "Oem",
-    "description": "MIUI Themes (manager)\nXiaomi seems to love confusing package names.\nLets you select and apply themes provided by Xiaomi.\nNOTE: Disabling will break the ability to change lock-screen wallpaper.\nHas a lot trackers. Running in the background.",
+    "description": "MIUI Themes (manager)\nXiaomi seems to love confusing package names.\nLets you select and apply themes provided by Xiaomi.\nNOTE: Disabling will break the ability to change the lock-screen wallpaper and ringtones in the OEM clock app.\nHas a lot trackers. Running in the background.",
     "dependencies": [],
     "neededBy": [],
     "labels": [],
@@ -29697,7 +29697,7 @@
   },
   "com.android.phone": {
     "list": "Aosp",
-    "description": "AOSP Dialer\nRemoving this package breaks the software update/download and install screen on Samsung",
+    "description": "AOSP Dialer\nRemoving this package breaks the software update/download and install screen on Samsung. Removing this package made my phone to not see my SIM card.",
     "dependencies": [],
     "neededBy": [],
     "labels": [],
@@ -30412,11 +30412,11 @@
   },
   "com.heytap.pictorial": {
     "list": "Oem",
-    "description": "Lock screen wallpaper\nPartially or completely breaks the lock screen wallpaper on Realme devices. Instead of the lock screen wallpaper there will be the home screen wallpaper, and there was also a time when after a reboot it was displayed once as it should, but after re-locking the screen everything happened as described earlier.",
+    "description": "Lock Screen Magazine\nLock Screen Magazine provides high-quality wallpapers and allows users to customize their lock screens. Every time you wake your screen, the wallpaper automatically changes.\nhttps://play.google.com/store/apps/details?id=com.heytap.pictorial",
     "dependencies": [],
     "neededBy": [],
     "labels": [],
-    "removal": "Advanced"
+    "removal": "Recommended"
   },
   "com.heytap.themestore": {
     "list": "Oem",
